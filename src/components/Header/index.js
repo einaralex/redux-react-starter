@@ -5,7 +5,7 @@ import Github from './Github'
 
 const Header = () => (
   <div>
-    <Title>redux-react-starter</Title>
+    <Title>redux-preact-starter</Title>
     <Github />
   </div>
 )
